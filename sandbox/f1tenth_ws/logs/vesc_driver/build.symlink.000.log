@@ -1,0 +1,5 @@
+Symlinking /home/sdc/sandbox/f1tenth_ws/devel/share/vesc_driver/cmake/vesc_driverConfig-version.cmake
+Symlinking /home/sdc/sandbox/f1tenth_ws/devel/share/vesc_driver/cmake/vesc_driverConfig.cmake
+Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/libvesc_driver_nodelet.so
+Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/pkgconfig/vesc_driver.pc
+Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/vesc_driver/vesc_driver_node
