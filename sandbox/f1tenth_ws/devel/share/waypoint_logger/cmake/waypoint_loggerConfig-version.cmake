@@ -1,1 +1,0 @@
-/home/sdc/sandbox/f1tenth_ws/devel/.private/waypoint_logger/share/waypoint_logger/cmake/waypoint_loggerConfig-version.cmake

@@ -1,6 +1,0 @@
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/share/vesc_ackermann/cmake/vesc_ackermannConfig.cmake
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/share/vesc_ackermann/cmake/vesc_ackermannConfig-version.cmake
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/libvesc_ackermann_nodelet.so
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/vesc_ackermann/ackermann_to_vesc_node
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/vesc_ackermann/vesc_to_odom_node
-Symlinking /home/sdc/sandbox/f1tenth_ws/devel/lib/pkgconfig/vesc_ackermann.pc

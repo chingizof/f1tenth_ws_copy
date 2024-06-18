@@ -1,6 +1,0 @@
-devel_space: /home/sdc/sandbox/f1tenth_ws/devel
-install: false
-install_space: /home/sdc/sandbox/f1tenth_ws/install
-profile: default
-source_space: /home/sdc/sandbox/f1tenth_ws/src
-workspace: /home/sdc/sandbox/f1tenth_ws

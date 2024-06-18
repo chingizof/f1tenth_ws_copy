@@ -1,2 +1,0 @@
-f1tenth_system/vesc/vesc
-/home/sdc/sandbox/f1tenth_ws/devel/.private/vesc/cmake.lock /home/sdc/sandbox/f1tenth_ws/devel/./cmake.lock
